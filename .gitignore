@@ -1,0 +1,30 @@
+# Large dataset files
+data/processed/cic_iiot_2025_processed.mat
+data/processed/edge_iiot_processed.mat
+data/processed/wustl_iiot_2021_processed.mat
+
+# Large result files
+results/dqn_cotraining_results.mat
+results/cotraining_results.mat
+results/comparison_results.mat
+results/checkpoints/
+
+# Figure files
+figures/
+*.fig
+*.pdf
+*.png
+
+# Text reports
+phase1_preprocessing/
+phase2_environment/
+phase3_defender/
+phase5_baselines/
+phase6_transfer/
+phase7_ablation/
+phase8_scalability/
+phase9_gametheory/
+
+# MATLAB temporary files
+*.asv
+*.m~
