@@ -1,6 +1,6 @@
 # CoADAM: A Co-Evolutionary Signaling Game Framework for Equilibrium Cyber Deception in Industrial IoT
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19556576.svg)](https://doi.org/10.5281/zenodo.19556576)
 
 ## Overview
 
